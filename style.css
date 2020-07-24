@@ -1,3 +1,11 @@
 p {
+<<<<<<< HEAD
     color: chocolate;
+=======
+    color: red;
+}
+
+h1 {
+    color: blue;
+>>>>>>> CSS
 }
